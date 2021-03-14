@@ -1,0 +1,99 @@
+#wrapper {
+  min-width: 340px;
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#main-bar {
+  background-color: #F0F2F3;
+  -webkit-box-shadow: inset 7px 0px 7px 2px #E6E8E9;
+  -moz-box-shadow: inset 7px 0px 7px 2px #E6E8E9;
+  box-shadow: inset 10px 0px 10px 0px #E6E8E9;
+}
+
+p{
+  color: #7E92AA;
+  text-align: center;
+
+}
+.video{
+  margin-left: 24px;
+  text-align: left;
+}
+.fa{
+margin-right: 2.5px;
+}
+
+/* aside section .....................................*/
+aside {
+  width: 10%;
+  height: 110px;
+  box-sizing: border-box;
+  float: left;
+  clear: left;
+  background-color: #FAFAFA;
+}
+
+img {
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  overflow: auto;
+}
+
+.book {
+  background-color: #D0E0ED;
+}
+
+/* main section */
+main {
+  width: 90%;
+  float: right;
+  box-sizing: border-box;
+}
+
+div.page-bar {
+  height: 466px;
+}
+.black{
+  color: black;
+}
+.navigation-bar {
+  height: 68.6px;
+  background-color: #fff;
+  -webkit-box-shadow: inset 7px 0px 7px 2px #E6E8E9;
+  -moz-box-shadow: inset 7px 0px 7px 2px #E6E8E9;
+  box-shadow: inset 10px 0px 10px 0px #E6E8E9;
+}
+
+.center-content {
+  background-color: #F0F2F3;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 80px;
+  width: 70%;
+  text-align: center;
+}
+
+.upload-section {
+
+   width: 160px;
+  height: 160px;
+  background-color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+
+
+.url{
+  text-align: left;
+    background-color: white;
+}
+
+/* aside section */
